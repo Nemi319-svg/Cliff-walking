@@ -20,6 +20,5 @@ A Python-based reinforcement learning project that trains an AI agent to find th
 * **Exploration Rate (Epsilon):** `0.1`
 * **Training Episodes:** `500`
 
-## 🛠️ How to Run Locally
 
 
