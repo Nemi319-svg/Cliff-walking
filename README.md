@@ -22,7 +22,4 @@ A Python-based reinforcement learning project that trains an AI agent to find th
 
 ## 🛠️ How to Run Locally
 
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/Nemi319-svg/](https://github.com/Nemi319-svg/)[YOUR-REPO-NAME].git
-   cd [YOUR-REPO-NAME]
+
